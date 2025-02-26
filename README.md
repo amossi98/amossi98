@@ -18,4 +18,3 @@ I'm passionate about **Computer Vision, Machine Learning, and Data Science**, wi
 - 🌐 **Blog:** [amossi98.github.io](https://amossi98.github.io)  
 - 💼 **LinkedIn:** [Alex Mossi](https://ch.linkedin.com/in/alex-mossi-130734190)  
 - 💻 **GitHub:** [github.com/amossi98](https://github.com/amossi98)
-- 📸 **Instagram:** [mossixe](https://www.instagram.com/mossixe/)
