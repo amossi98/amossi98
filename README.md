@@ -5,7 +5,7 @@
 I'm passionate about **Computer Vision, Machine Learning, and Data Science**, with experience in **image processing, mathematical modeling, and AI applications**. I enjoy working on both theoretical and applied aspects of ML and CV.
 
 ## 🎓 Education
--MSc Applied Mathematics ETHZ: Image Processing & Computer Vision, Machine Learning
+-MSc Applied Mathematics ETHZ: Image Processing & Computer Vision, Machine Learning  
 -BSc Mathematics ETHZ
 
 ## 📄 Publications
